@@ -1,0 +1,4 @@
+package: user_mailer
+import:
+- package: github.com/BurntSushi/toml
+  version: v0.3.1
